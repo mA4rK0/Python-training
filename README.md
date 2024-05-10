@@ -1,1 +1,1 @@
-In these projects I just want to learn more with Python programming language 
+In these projects, I just want to learn more about Python programming language 
